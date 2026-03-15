@@ -3,7 +3,7 @@
 
 ## Dashboard Preview
 
-![HR Dashboard](HR_Analytics_Dashboard_Overview.png)
+![HR Dashboard](HR_Analytics_Dashboard_Overview.png.png)
 
 ---
 
